@@ -1,0 +1,12 @@
+//---------------------------------------------------------------------------
+
+#ifndef C_L_memoriaH
+#define C_L_memoriaH
+//---------------------------------------------------------------------------
+   class conjuntolista{
+	   private:
+	   Lista* ls;
+	   public:
+       conjuntolista(CSmemoria*l);
+   };
+#endif
